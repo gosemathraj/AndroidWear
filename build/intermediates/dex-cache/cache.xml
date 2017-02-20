@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_7c21146f25f0a9e7cab8872f86aec8ac61e2821e.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_f24069bfeecc2fb0b00a4ab6b46d300287f0cfa8.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_4583e66d669ad8ae0a5d65ad583d59bd8411e160.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_ec986f3a46165418712c2103f5f3e7870d850cc5.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_a1ac0b7dc54ac2f4418a63c8b04f7cfe5c89afb0.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_0bf9e1d45fb31f209e22b1af104175c60be67d93.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_6c66d0e799a615117c8a52201296b66259a1a9a1.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_e8f9665c3950c365c270cfd2349772a869d1a564.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_9a7eb6d3a023de934eeaee07e3ba3c0617190767.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-1.3.0_12bf3269a7db313d936b146d4e35b10546bbe50c.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_7c495227da20dbd6e52c5b543fe77d610a30b529.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_f9f0d95162712785d8d2c2b64dac96589deecf11.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_ad354916833e5a5b2b1e33134ed4096ab268051f.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_a1c1e98d25472258773db55e830760c0dfc51bd7.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_98ec32e1b47aa1225440eefa09d4f77b77a4d9d1.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_98962c464c3f7fb8009ee358153afccce10d5f89.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_c923fb3ea3e82aa2c12f4f182546066319d4cc39.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f889a86db09a0d7e22db156a112fbb8c71937eb9.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-23.1.1_dd596b5b698e143484faa9cab0ec0b325d64286d.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_8bc1d8064788ade119be2f4d514fed98e5b66bdf.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_cdf2fc17ceb489c52b05e47d5ca95009ad09068a.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/app/build/intermediates/pre-dexed/debug/glide-3.5.2_9c8f0bd3e24bdfe1f67953261ed560868f827859.jar" />
+    </item>
+    <item
+        jar="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/iamsparsh/development/udacity/AndroidWear/udacity-go-ubiquitous-master/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_899db7887e8ec90a86f66111f724aaf9da5c6fec.jar" />
+    </item>
+
+</items>
